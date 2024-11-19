@@ -1,8 +1,8 @@
-<img align="right" height="200" src="https://i.pinimg.com/736x/9d/71/b7/9d71b7543656b5173b067dc0d32bcff5.jpg"  />
+<img align="right" height="300" src="https://i.pinimg.com/736x/9d/71/b7/9d71b7543656b5173b067dc0d32bcff5.jpg"  />
 
 ###
 
-<h4 align="center">Olá!</h4>
+<h3 align="center">Olá!</h3>
 
 ###
 
@@ -44,6 +44,8 @@
 <div align="center">
   <img src="https://profile-counter.glitch.me/kaiiaa/count.svg?"  />
 </div>
+
+###
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kaiiaa&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
