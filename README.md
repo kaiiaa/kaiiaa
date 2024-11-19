@@ -2,17 +2,17 @@
 
 ###
 
-<p align="left">❀ - Me chamo Kaiany, sou autista, tenho 16 anos e sou estudante do segundo ano do curso de Informática do Instituto Federal do Maranhão,  Campus Açailândia.<br>🖌️ - Sou Freelancer de Ilustração digital e tenho bastante interesse em áreas gráficas. No meu tempo livre trabalho em projetos pessoais e escuto música.  Nesse momento estou aberta encomendas de desenho!</p>
+<p align="left">❀ - Me chamo Kaiany, sou autista, tenho 16 anos e sou estudante do segundo ano do curso de Informática do Instituto Federal do Maranhão,  Campus Açailândia.<br>🖌️ - Sou Freelancer de Ilustração digital e tenho bastante interesse em áreas gráficas. No meu tempo livre trabalho em projetos pessoais e escuto música.  Nesse momento estou aberta encomendas de desenho! Tenho nível de domínio B2 em inglês. </p>
 
 ###
 
 <br clear="both">
 
-<h3 align="left">Habilidades</h3>
+<h3 align="center">Habilidades</h3>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.simpleicons.org/canva/00C4CC" height="40" alt="canva logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
@@ -32,7 +32,8 @@
   <img src="https://cdn.simpleicons.org/wordpress/21759B" height="40" alt="wordpress logo"  />
 </div>
 
-
+###
+###
 ###
 
 <div align="center">
