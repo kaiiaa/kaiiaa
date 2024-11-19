@@ -2,11 +2,11 @@
 
 ###
 
-<h4 align="center">Welcome!</h4>
+<h4 align="center">Olá!</h4>
 
 ###
 
-<p align="left">Hi! My name's Maria and I'm a student from Computer Scientist. I hadn't much experience in other languages, expect HTML and CSS. I had a bit knowledge in Java and JavaScript.</p>
+<p>align="left">Me chamo Kaiany e sou estudante do segundo ano do curso de informática do INstituto Federal do Maranhão </p>
 
 ###
 
