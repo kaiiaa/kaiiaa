@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Olá👋
+<img src="https://i.pinimg.com/enabled_lo_mid/736x/3d/a1/ed/3da1ed268044ace04303b77bd1247e0f.jpg">
 <!--
 **kaiiaa/kaiiaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
