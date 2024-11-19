@@ -1,4 +1,4 @@
-<img align="right" height="200" src="https://i.pinimg.com/564x/17/46/df/1746df0fee83257a30db392700d028ef.jpg"  />
+<img align="right" height="200" src="https://i.pinimg.com/564x/17/46/df/1746df0fee83257a30db392700d028ef.jpg](https://i.pinimg.com/736x/7b/ff/74/7bff749ece39d890893172db76b60556.jpg"  />
 
 ###
 
@@ -6,7 +6,7 @@
 
 ###
 
-<p>align="left">Me chamo Kaiany e sou estudante do segundo ano do curso de informática do INstituto Federal do Maranhão </p>
+<p align="left">Me chamo Kaiany e sou estudante do segundo ano do curso de informática do INstituto Federal do Maranhão, sou autista  </p>
 
 ###
 
