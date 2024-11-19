@@ -8,6 +8,10 @@
 
 <br clear="both">
 
+<div align="center">
+  <img height="40" align="center" src="https://media.tenor.com/INaouFv5F9EAAAAj/divider-star-divider.gif">
+</div>
+
 <h3 align="center">Habilidades</h3>
 
 ###
@@ -50,7 +54,10 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kaiiaa&radius=16&theme=github-dark&area=true&order=5&hide_border=true" height="300" alt="activity-graph graph"  />
 </div>
 
-###
+<div align="center">
+  <img height="40" align="center" src="https://media.tenor.com/INaouFv5F9EAAAAj/divider-star-divider.gif">
+</div>
+
 
 <h3 align="left">Contatos</h3>
 
