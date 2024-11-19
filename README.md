@@ -32,9 +32,30 @@
   <img src="https://cdn.simpleicons.org/wordpress/21759B" height="40" alt="wordpress logo"  />
 </div>
 
+
+###
+
+<div align="center">
+  <img height="84" src="https://media.tenor.com/GSwh5nmSBSEAAAAj/blue-bow-divider-gif.gif"  />
+</div>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kaiiaa&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=pt-br&hide_border=true&order=1" height="150" alt="stats graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kaiiaa&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=9&theme=github_dark&hide_border=true&order=2&custom_title=Linguagens" height="150" alt="languages graph" /> <br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kaiiaa&radius=16&theme=github-dark&area=true&order=5&hide_border=true" height="300" alt="activity-graph graph"  />
+</div>
+
 ###
 
 <h3 align="left">Contatos</h3>
+
+###
+
+<img align="right" height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3h4ejhpYnhlMGJpeTBqcTRud2t0N3A2ZjhkbXU3MTA0NTFmcXNmeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/DihuE8jPKOyBEayQaj/giphy.webp"  />
 
 ###
 
@@ -52,23 +73,5 @@
     <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=739e83&logoColor=white&labelColor=&style=for-the-badge" height="39" alt="linktree logo"  />
   </a>
 </div>
-
-###
-
-<p align="left">Hello World!!</p>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kaiiaa&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=pt-br&hide_border=true&order=1" height="150" alt="stats graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kaiiaa&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=9&theme=github_dark&hide_border=true&order=2&custom_title=Linguagens" height="150" alt="languages graph" /> <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kaiiaa&radius=16&theme=github-dark&area=true&order=5&hide_border=true" height="300" alt="activity-graph graph"  />
-</div>
-
-###
-
-<p align="left">Hello World!!</p>
 
 ###
