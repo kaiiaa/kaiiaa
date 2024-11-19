@@ -1,4 +1,4 @@
-<img align="center" src="https://i.pinimg.com/originals/45/c1/fc/45c1fcf4aaae94a8ab0015e186070d22.gif">
+<img align ="center" width="700" align ="center" src="https://i.pinimg.com/originals/e9/23/36/e923360495943e6d7073431b0cfca6b1.gif">
 
 <h2 align="left">Olá!</h2>
 
@@ -20,7 +20,7 @@
 
 <div align="center">
   <img src="https://cdn.simpleicons.org/canva/00C4CC" height="40" alt="canva logo"  />
-  <img width="12" />
+  <iimg width="12"mg width="12" />
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/css3/1572B6" height="40" alt="css3 logo"  />
