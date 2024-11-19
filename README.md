@@ -1,4 +1,16 @@
-<h3 align="left">Olá!</h3>
+<h2 align="left">Olá!</h2>
+
+###
+
+<p align="left">❀ - Me chamo Kaiany, sou autista, tenho 16 anos e sou estudante do segundo ano do curso de Informática do Instituto Federal do Maranhão,  Campus Açailândia.<br>🖌️ - Sou Freelancer de Ilustração digital e tenho bastante interesse em áreas gráficas. No meu tempo livre trabalho em projetos pessoais e escuto música.  Nesse momento estou aberta encomendas de desenho!</p>
+
+###
+
+<h3 align="left">No que eu trabalho?</h3>
+
+###
+
+<h3 align="left">Contatos</h3>
 
 ###
 
@@ -6,15 +18,33 @@
 
 ###
 
-<p align="left">Me chamo Kaiany, tenho 16 anos e sou estudante do segundo ano do curso de informática do Instituto Federal do Maranhão,  Campus Açailândia.<br>Sou Freelancer de Ilustração digital e tenho bastante interesse em áreas gráficas e</p>
+<div align="left">
+  <a href="https://discordapp.com/users/1279890369194098839" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=573143&logoColor=white&labelColor=&style=for-the-badge" height="39" alt="discord logo"  />
+  </a>
+  <a href="https://ko-fi.com/kaaaiiy" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Ko-fi&logo=ko-fi&label=&color=654c7d&logoColor=white&labelColor=&style=for-the-badge" height="39" alt="ko-fi logo"  />
+  </a>
+  <a href="https://www.instagram.com/kaaaiiy_" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=315736&logoColor=white&labelColor=&style=for-the-badge" height="39" alt="instagram logo"  />
+  </a>
+</div>
+
+###
+
+<br clear="both">
+
+<p align="left">Hello World!!</p>
+
+###
+
+<p align="left">Hello World!!</p>
 
 ###
 
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kaiiaa&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=pt-br&hide_border=true&order=1" height="150" alt="stats graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kaiiaa&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=9&theme=github_dark&hide_border=true&order=2&custom_title=Linguagens" height="150" alt="languages graph"  />
 </div>
 
 ###
