@@ -1,4 +1,4 @@
-<img height="400" align="center" src="https://i.pinimg.com/originals/d6/58/ff/d658ff5478661dfbfa679d91365a3566.gif">
+<img align="center" src="https://i.pinimg.com/originals/45/c1/fc/45c1fcf4aaae94a8ab0015e186070d22.gif">
 
 <h2 align="left">Olá!</h2>
 
