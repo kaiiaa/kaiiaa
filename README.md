@@ -9,8 +9,14 @@
 <p align="left">Me chamo Kaiany e sou estudante do segundo ano do curso de informática do INstituto Federal do Maranhão, sou autista  </p>
 
 ###
-
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kaiiaa&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=onedark&locale=en&hide_border=false&order=1" height="119" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kaiiaa&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=onedark&hide_border=false&order=2" height="111" alt="languages graph"  />
+</div>
+
+###
+<div align="center">
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
@@ -33,7 +39,7 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/1ch1g0/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/kaiiaa/count.svg?"  />
 </div>
 
 ###
