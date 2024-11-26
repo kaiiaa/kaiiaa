@@ -1,10 +1,10 @@
-<img align ="center" width="700" align ="center" src="https://i.pinimg.com/originals/e9/23/36/e923360495943e6d7073431b0cfca6b1.gif">
+<img align ="center" width="700" align ="center" src="https://i.pinimg.com/originals/1f/a7/06/1fa706e0932140ec42bfa36dc48ea59b.gif">
 
 <h2 align="left">Olá!</h2>
 
 ###
 
-<p align="left">❀ - Me chamo Kaiany, sou autista e TDAH, tenho 16 anos e sou estudante do segundo ano do curso de Informática do Instituto Federal do Maranhão,  Campus Açailândia.<br>🖌️ - Sou Freelancer de Ilustração digital e Desenvolvedora Web, tenho bastante interesse em áreas gráficas. No meu tempo livre trabalho em projetos pessoais e escuto música.  Nesse momento estou aberta encomendas de desenho! Tenho nível de domínio B2 em inglês. Tenho um grande interesse por tecnologia. </p>
+<p align="left">❀ - Me chamo Kaiany, sou autista e TDAH, tenho 16 anos e sou estudante do segundo ano do curso de Informática do Instituto Federal do Maranhão,  Campus Açailândia.<br>🖌️ - Sou Freelancer de Ilustração digital e Desenvolvedora Web, tenho bastante interesse em áreas gráficas. No meu tempo livre trabalho em projetos pessoais e escuto música.  Nesse momento estou aberta encomendas de desenho! Tenho nível de domínio B2 em inglês. Tenho um grande interesse por tecnologia. Ilustro por meio de Krita e Clip Studio Paint Pro. </p>
 
 ###
 
