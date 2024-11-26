@@ -4,7 +4,9 @@
 
 ###
 
-<p align="left">❀ - Me chamo Kaiany, sou autista e TDAH, tenho 16 anos e sou estudante do segundo ano do curso de Informática do Instituto Federal do Maranhão,  Campus Açailândia.<br>🖌️ - Sou Freelancer de Ilustração digital e Desenvolvedora Web, tenho bastante interesse em áreas gráficas. No meu tempo livre trabalho em projetos pessoais e escuto música.  Nesse momento estou aberta encomendas de desenho! Tenho nível de domínio B2 em inglês. Tenho um grande interesse por tecnologia. Ilustro por meio de Krita e Clip Studio Paint Pro. </p>
+<p align="left">❀ - Me chamo Kaiany, sou autista e TDAH, tenho 16 anos e sou estudante do segundo ano do curso de Informática do Instituto Federal do Maranhão,  Campus Açailândia.<br>🖌️ - Sou Freelancer de Ilustração digital e Desenvolvedora Web, tenho bastante interesse em áreas gráficas. No meu tempo livre trabalho em projetos pessoais e escuto música.  Nesse momento estou aberta encomendas de desenho! Tenho nível de domínio B2 em inglês. Tenho um grande interesse por tecnologia. Ilustro por meio de Krita e Clip Studio Paint Pro.
+💌 - kaiany.guimaraes@acad.ifma.edu.br
+</p>
 
 ###
 
